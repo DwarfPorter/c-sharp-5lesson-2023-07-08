@@ -1,0 +1,15 @@
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\bin\Debug\net6.0\Task1.exe
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\bin\Debug\net6.0\Task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\bin\Debug\net6.0\Task1.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.pdb
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\DwarfPorter\GeekBrains\Developer\c-sharp\2023-06-24\Lesson5\Task1\obj\Debug\net6.0\ref\Task1.dll
